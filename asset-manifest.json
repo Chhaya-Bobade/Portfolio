@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio_Chhaya-Bobade/static/css/main.9f986ad2.css",
-    "main.js": "/Portfolio_Chhaya-Bobade/static/js/main.5a91dc06.js",
+    "main.js": "/Portfolio_Chhaya-Bobade/static/js/main.2d79aa84.js",
     "static/media/me2-unscreen.gif": "/Portfolio_Chhaya-Bobade/static/media/me2-unscreen.b9d886ab0f4b1f356dde.gif",
-    "static/media/cv.pdf": "/Portfolio_Chhaya-Bobade/static/media/cv.70cd060cadd3037eae24.pdf",
     "static/media/me1-unscreen.gif": "/Portfolio_Chhaya-Bobade/static/media/me1-unscreen.9da75c3a3cb3f8b03556.gif",
+    "static/media/cv.pdf": "/Portfolio_Chhaya-Bobade/static/media/cv.eca45d4e931839d33ddf.pdf",
     "static/media/portfolio8.jpg": "/Portfolio_Chhaya-Bobade/static/media/portfolio8.691d0758b7fa0513a71f.jpg",
     "static/media/portfolio5.png": "/Portfolio_Chhaya-Bobade/static/media/portfolio5.1995421bad23d5e755a9.png",
     "static/media/portfolio6.jpg": "/Portfolio_Chhaya-Bobade/static/media/portfolio6.64992a42292bad209685.jpg",
@@ -27,10 +27,10 @@
     "static/media/portfolio9.jpg": "/Portfolio_Chhaya-Bobade/static/media/portfolio9.59a0e1976b1d47a5fdc8.jpg",
     "index.html": "/Portfolio_Chhaya-Bobade/index.html",
     "main.9f986ad2.css.map": "/Portfolio_Chhaya-Bobade/static/css/main.9f986ad2.css.map",
-    "main.5a91dc06.js.map": "/Portfolio_Chhaya-Bobade/static/js/main.5a91dc06.js.map"
+    "main.2d79aa84.js.map": "/Portfolio_Chhaya-Bobade/static/js/main.2d79aa84.js.map"
   },
   "entrypoints": [
     "static/css/main.9f986ad2.css",
-    "static/js/main.5a91dc06.js"
+    "static/js/main.2d79aa84.js"
   ]
 }
