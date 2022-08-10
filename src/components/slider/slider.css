@@ -1,0 +1,39 @@
+.slider{
+    height: 100px;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: auto;
+    background: transparent;
+    margin-top: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.slider .slide-track{
+    animation: scroll 40s linear infinite;
+    display: flex;
+    width: calc(550px * 14);
+    
+}
+.slider .slide{
+    height: 50px;
+    width: 250px;
+}
+@keyframes scroll{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(calc(-250px * 7));
+    }
+}
+.slider img{
+    height: 100px;
+    width: 100px;
+    /* padding: 20px; */
+}
+.slider img:hover{
+    height: 110px;
+    width: 110px;
+    cursor: pointer;
+}
